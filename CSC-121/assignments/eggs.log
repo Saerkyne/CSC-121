@@ -1,0 +1,15 @@
+DEBUG 2021-10-22 11:33:00,060 Program Start
+DEBUG 2021-10-22 11:33:02,488 Reading in row number 1
+DEBUG 2021-10-22 11:33:02,488 Reading in row number 2
+DEBUG 2021-10-22 11:33:02,489 Reading in row number 3
+DEBUG 2021-10-22 11:33:02,489 Reading in row number 4
+DEBUG 2021-10-22 11:33:02,489 Reading in row number 5
+DEBUG 2021-10-22 11:33:02,489 Added integer from index 1
+DEBUG 2021-10-22 11:33:02,489 Added integer from index 2
+WARNING 2021-10-22 11:33:02,489 No data at index 3
+DEBUG 2021-10-22 11:33:02,489 Added integer from index 4
+DEBUG 2021-10-22 11:33:02,490 Added integer from index 5
+DEBUG 2021-10-22 11:33:02,490 All data read in.
+DEBUG 2021-10-22 11:33:02,490 Calculating Total Production
+DEBUG 2021-10-22 11:33:02,490 Calculating Average Production
+DEBUG 2021-10-22 11:33:04,981 Writing results to CSV
