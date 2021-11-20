@@ -12,6 +12,11 @@ itemDiscount = input("Enter the Discount percentage (if no discount, enter 0): "
 # Creation of discount object
 discount = DiscountSale(itemName, itemPrice, itemDiscount)
 
+# Testing Get methods
+print(discount.getName())
+print(discount.getPrice())
+print(discount.getDiscount())
+
 # Print variables before calculation
 print(discount)
 
