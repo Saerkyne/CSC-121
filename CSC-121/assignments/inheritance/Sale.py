@@ -12,7 +12,7 @@ class Sale(object):
     def __init__(self, name, price):
         # Initialize two attributes
         self.name = name
-        self.price = price
+        self.price = float(price)
     
     def __str__(self):
         # print return in standard form
@@ -28,4 +28,4 @@ class Sale(object):
         self.name = newName
     
     def setPrice(self, newPrice):
-        self.price = newPrice
+        self.price = float(newPrice)
